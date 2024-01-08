@@ -9,6 +9,6 @@ with col1:
   st.write("Parrots also known as psittacines")
 with col2:
   st.subheader("Blue bird")
-  st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRTvAk4ScLczGZ59IKksyOlKgLV0H1Fd102w&usqp=CAU",caption="Blue bird",width=300,use_column_width=True)
+  st.image("https://qph.cf2.quoracdn.net/main-qimg-7f9ae22462e89a4cadab85127ad2c3ed-lq",caption="Blue bird",width=300,use_column_width=True)
   st.write("Bluebird also known as Sialia")
   
