@@ -13,11 +13,15 @@ with col2:
   st.write("Bluebird also known as Sialia")
 with col3:
   st.subheader("Bird Singing")
-  st.image("https://media3.giphy.com/media/KfxPezYC20OnSPQK5J/giphy.gif",caption="Blue bird",width=300,use_column_width=True)
+  st.image("https://media3.giphy.com/media/KfxPezYC20OnSPQK5J/giphy.gif",caption="bird singing",width=300,use_column_width=True)
   st.write("Birds are so beautiful")
 with col4:
   st.subheader("Blue bird moving")
-  st.image("https://peter-ertl.com/birds/images/blaumeise-5.gif",caption="Blue bird",width=300,use_column_width=True)
+  st.image("https://peter-ertl.com/birds/images/blaumeise-5.gif",caption="bird",width=300,use_column_width=True)
   st.write("Blue Birds are so beautiful")
+with col4:
+  st.subheader("Nandu Chintu")
+  st.video("https://www.youtube.com/watch?v=PGjMtclhx_U&pp=ygUUbmFuZHUgY2hpbnR1IGNoYW5uZWw%3D",caption="NACH",width=300,use_column_width=True)
+  st.write("NACH are beautiful couple")
 
 
