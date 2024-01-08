@@ -2,7 +2,7 @@ import streamlit as st
 st.set_page_config(page_title='Birds')
 st.header("Types of Birds")
 
-col1,col2,col3,col4=st.columns(4)
+col1,col2,col3,col4,col5=st.columns(5)
 with col1:
   st.subheader("Parrot")
   st.image("https://images.unsplash.com/photo-1552728089-57bdde30beb3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFycm90fGVufDB8fDB8fHww",caption="Parrot",width=300,use_column_width=True)
@@ -19,7 +19,7 @@ with col4:
   st.subheader("Blue bird moving")
   st.image("https://peter-ertl.com/birds/images/blaumeise-5.gif",caption="bird",width=300,use_column_width=True)
   st.write("Blue Birds are so beautiful")
-with col4:
+with col5:
   st.subheader("Nandu Chintu")
   st.video("https://www.youtube.com/watch?v=PGjMtclhx_U&pp=ygUUbmFuZHUgY2hpbnR1IGNoYW5uZWw%3D",caption="NACH",width=300,use_column_width=True)
   st.write("NACH are beautiful couple")
