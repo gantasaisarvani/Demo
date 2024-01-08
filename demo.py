@@ -11,4 +11,9 @@ with col2:
   st.subheader("Blue bird")
   st.image("https://qph.cf2.quoracdn.net/main-qimg-7f9ae22462e89a4cadab85127ad2c3ed-lq",caption="Blue bird",width=300,use_column_width=True)
   st.write("Bluebird also known as Sialia")
-  
+with col3:
+  st.subheader("Bird Singing")
+  st.image("https://media3.giphy.com/media/KfxPezYC20OnSPQK5J/giphy.gif",caption="Blue bird",width=300,use_column_width=True)
+  st.write("Birdsn are so beautiful")
+
+
