@@ -9,6 +9,6 @@ with col1:
   st.write("Parrots also known as psittacines")
 with col2:
   st.subheader("Blue bird")
-  st.image("Blue birds.jpg",caption="Blue bird",width=300,use_column_width=True)
+  st.image("Blue bird.jpg",caption="Blue bird",width=300,use_column_width=True)
   st.write("Bluebird also known as Sialia")
   
