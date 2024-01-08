@@ -21,7 +21,7 @@ with col4:
   st.write("Blue Birds are so beautiful")
 with col5:
   st.subheader("Nandu Chintu")
-  st.video("https://www.youtube.com/watch?v=PGjMtclhx_U&pp=ygUUbmFuZHUgY2hpbnR1IGNoYW5uZWw%3D",caption="NACH",width=300,use_column_width=True)
+  st.video("https://www.youtube.com/watch?v=PGjMtclhx_U&pp=ygUUbmFuZHUgY2hpbnR1IGNoYW5uZWw%3D")
   st.write("NACH are beautiful couple")
 
 
